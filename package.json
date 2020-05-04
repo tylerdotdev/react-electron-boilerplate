@@ -1,5 +1,5 @@
 {
-  "name": "React/Electron Boilerplate",
+  "name": "react-electron-boilerplate",
   "version": "1.0.0",
   "main": "src/electron.js",
   "license": "MIT",
